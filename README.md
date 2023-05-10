@@ -4,7 +4,7 @@
 
 🔍 A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Handlebars and dotenv.
 
-**[Deployed Application Link](https://stormy-stream-06669.herokuapp.com//)**
+**[Deployed Application Link](https://stormy-stream-06669.herokuapp.com/)**
   
 Below there is an application screenshot.
   
